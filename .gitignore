@@ -1,0 +1,9 @@
+# Eseguibili compilati presenti nelle cartelle delle strutture
+*.exe
+
+# Programmi personali usati solo per provare le strutture
+*.cpp
+*.cc
+
+# Configurazioni locali di Visual Studio Code
+.vscode/
